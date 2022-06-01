@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "course_first", "course_first\course_first.csproj", "{5BF8B607-8FC5-4841-9B87-4313765F87F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		rabota|Any CPU = rabota|Any CPU
+		rabota|x64 = rabota|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Debug|x64.ActiveCfg = Debug|x64
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Debug|x64.Build.0 = Debug|x64
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.rabota|Any CPU.ActiveCfg = rabota|Any CPU
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.rabota|Any CPU.Build.0 = rabota|Any CPU
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.rabota|x64.ActiveCfg = rabota|x64
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.rabota|x64.Build.0 = rabota|x64
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Release|x64.ActiveCfg = Release|x64
+		{5BF8B607-8FC5-4841-9B87-4313765F87F2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E02275-B71E-4D4E-8F21-5CE2D6259CCA}
+	EndGlobalSection
+EndGlobal
